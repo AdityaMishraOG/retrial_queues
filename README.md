@@ -13,7 +13,7 @@ The project covers various concepts related to retrial queues, specifically focu
    - Definitions of Laplace transform of service time, hazard rate, and distribution of the number of primary calls that arrive during service time are provided.
 
 3. **M/M/1 Retrial Queue**:
-   - Service time distribution in M/M/1 retrial queue is defined as B(x) = 1 - e^(-νx).
+   - Service time distribution in M/M/1 retrial queue is defined as $B(x) = 1 - e^{-νx}$.
    - Continuous-Time Markov Chain (CTMC) states are represented by (C(t), N(t)), where C(t) indicates the number of busy servers.
 
 4. **Performance Metrics**:
