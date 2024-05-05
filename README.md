@@ -1,4 +1,5 @@
 # RETRIAL QUEUE SIMULATOR
+![Queue Diagram](/retrial.png)
 
 ## OVERVIEW
 The project covers various concepts related to retrial queues, specifically focusing on M/M/1 and M/M/K models. Here is a summary of the key concepts discussed in the report:
@@ -27,6 +28,7 @@ The project covers various concepts related to retrial queues, specifically focu
 
 Overall, the project delves into the theoretical foundations, mathematical formulations, and performance evaluation of retrial queues, providing insights into the behavior and analysis of these queueing systems.
 
+![CTMC](/states.jpeg)
 ## CONTRIBUTORS
 This was a group project done by:
 - Aditya Mishra
